@@ -1,1 +1,1 @@
-Start of tic tac toe game for fun
+tic tac toe game for fun
